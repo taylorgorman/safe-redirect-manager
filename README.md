@@ -123,7 +123,7 @@ The following WP-CLI commands are supported by Safe Redirect Manager:
         | /tes?t/[0-9]+/path/[^/]+/? | /go/here           | 1     | 302  | 3     |
         | ...                        | ...                | ...   | ...  | ...   |
 
-        _You can also use exported redirects from "Redirection" plugin, which you can download here: /wp-admin/tools.php?page=redirection.php&sub=modules_
+        _You can also use exported redirects from "Redirection" plugin, which you can download here: /wp-admin/tools.php?page=redirection.php&sub=io_
 
     * `--source`: Header title for source ("from" URL) column mapping.
     * `--target`: Header title for target ("to" URL) column mapping.
